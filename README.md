@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm iPann.Univ</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi , I'm iPann.Univ</h1>
+<h3 align="center">Learning Some languages</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ipanps&label=Profile%20views&color=0e75b6&style=flat" alt="ipanps" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ipanps" alt="ipanps" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ipanps&label=Profile%20views&color=0091ff&style=flat" alt="ipanps" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ipanorchaco" target="blank"><img src="https://img.shields.io/twitter/follow/ipanorchaco?logo=twitter&style=for-the-badge" alt="ipanorchaco" /></a> </p>
 
@@ -20,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ipanps&show_icons=true&theme=dark&locale=en" alt="ipanps" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ipanps&" alt="ipanps" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ipanps&theme=dark" alt="ipanps" /></p>
